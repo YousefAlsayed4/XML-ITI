@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE employees SYSTEM "employees.dtd">
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<employees>
+    <employee>
+        <name>Ahmed Hassan</name>
+        <phones>
+            <phone type="home">123-456-7890</phone>
+            <phone type="mobile">987-654-3210</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>456 Nile St</street>
+                <building_number>1</building_number>
+                <region>North</region>
+                <city>Cairo</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>ahmed.hassan@example.com</email>
+    </employee>
+    <employee>
+        <name>Layla Khalil</name>
+        <phones>
+            <phone type="work">456-789-0123</phone>
+            <phone type="mobile">555-555-5555</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>123 Pyramid Ave</street>
+                <building_number>2</building_number>
+                <region>Giza</region>
+                <city>Cairo</city>
+                <country>Egypt</country>
+            </address>
+            <address>
+                <street>789 Sphinx St</street>
+                <building_number>3</building_number>
+                <region>West</region>
+                <city>Luxor</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>layla.khalil@example.com</email>
+    </employee>
+    <employee>
+        <name>Mohammed Ibrahim</name>
+        <phones>
+            <phone type="home">321-654-9870</phone>
+            <phone type="mobile">555-123-4567</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>789 Pharaoh St</street>
+                <building_number>4</building_number>
+                <region>East</region>
+                <city>Aswan</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>mohammed.ibrahim@example.com</email>
+    </employee>
+    <employee>
+        <name>Nour Ahmed</name>
+        <phones>
+            <phone type="home">777-888-9999</phone>
+            <phone type="mobile">111-222-3333</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>456 Sphinx St</street>
+                <building_number>5</building_number>
+                <region>West</region>
+                <city>Luxor</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>nour.ahmed@example.com</email>
+    </employee>
+    <employee>
+        <name>Ahmed Mahmoud</name>
+        <phones>
+            <phone type="work">555-777-9999</phone>
+            <phone type="mobile">222-333-4444</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>987 Nile St</street>
+                <building_number>6</building_number>
+                <region>North</region>
+                <city>Cairo</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>ahmed.mahmoud@example.com</email>
+    </employee>
+    <employee>
+        <name>Sara Ali</name>
+        <phones>
+            <phone type="home">999-888-7777</phone>
+            <phone type="mobile">444-333-2222</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>456 Pyramid Ave</street>
+                <building_number>7</building_number>
+                <region>Giza</region>
+                <city>Cairo</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>sara.ali@example.com</email>
+    </employee>
+    <employee>
+        <name>Mohamed Salah</name>
+        <phones>
+            <phone type="work">333-444-5555</phone>
+            <phone type="mobile">777-888-9999</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>789 Sphinx St</street>
+                <building_number>8</building_number>
+                <region>West</region>
+                <city>Luxor</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>mohamed.salah@example.com</email>
+    </employee>
+    <employee>
+        <name>Mona Youssef</name>
+        <phones>
+            <phone type="home">666-555-4444</phone>
+            <phone type="mobile">222-333-4444</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>123 Sphinx St</street>
+                <building_number>9</building_number>
+                <region>West</region>
+                <city>Luxor</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>mona.youssef@example.com</email>
+    </employee>
+    <employee>
+        <name>Omar Samir</name>
+        <phones>
+            <phone type="work">111-222-3333</phone>
+            <phone type="mobile">444-555-6666</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>789 Pharaoh St</street>
+                <building_number>10</building_number>
+                <region>East</region>
+                <city>Aswan</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>omar.samir@example.com</email>
+    </employee>
+    <employee>
+        <name>Hana Mahmoud</name>
+        <phones>
+            <phone type="home">888-777-6666</phone>
+            <phone type="mobile">333-222-1111</phone>
+        </phones>
+        <addresses>
+            <address>
+                <street>456 Nile St</street>
+                <building_number>11</building_number>
+                <region>North</region>
+                <city>Cairo</city>
+                <country>Egypt</country>
+            </address>
+        </addresses>
+        <email>hana.mahmoud@example.com</email>
+    </employee>
+</employees>

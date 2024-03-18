@@ -1,0 +1,66 @@
+library {
+    display: block;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+location,
+description,
+librarian {
+    display: block;
+    margin-bottom: 10px;
+}
+
+librarian > name {
+    font-weight: bold;
+}
+
+books {
+    display: block;
+}
+
+book {
+    display: block;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+title,
+isbn,
+author {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+preface,
+parts {
+    display: block;
+    margin-bottom: 10px;
+}
+
+part > title,
+chapter > title {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+chapter > summary {
+    display: block;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+sections,
+section,
+paragraph {
+    display: block;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styles.css"?>
+<library>
+    <location>Alexandria</location>
+    <description>A public library serving the community with a vast collection of books and digital resources.</description>
+    <librarian>
+        <name>Yousef Alsayed</name>
+        <email>yalsayed19@gmail.com</email>
+    </librarian>
+    <books>
+        <book>
+            <title>Python Programming: From Basics to Mastery</title>
+            <isbn>978-1-78646-279-2</isbn>
+            <author>Emma Jones</author>
+            <preface>
+                <content>This book provides a comprehensive guide to learning Python programming language.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Introduction to Python</title>
+                    <chapters>
+                        <chapter>
+                            <title>Getting Started with Python</title>
+                            <summary>An overview of Python and setting up the development environment.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>This chapter covers the basics of Python syntax and data types.</paragraph>
+                                    <paragraph>We'll learn about variables, data structures, and basic operations.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>The Alchemist</title>
+            <isbn>978-0-06-112008-4</isbn>
+            <author>Paulo Coelho</author>
+            <preface>
+                <content>A philosophical novel that follows the journey of a shepherd boy named Santiago.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1: The Shepherd</title>
+                    <chapters>
+                        <chapter>
+                            <title>The Boy and His Dreams</title>
+                            <summary>An introduction to Santiago's life and his recurring dream of finding treasure.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>Santiago embarks on a journey to pursue his dreams and seek his destiny.</paragraph>
+                                    <paragraph>The story unfolds as Santiago meets various characters who guide him along his path.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <!-- Add more books here -->
+        <book>
+            <title>The Catcher in the Rye</title>
+            <isbn>978-0-316-76948-4</isbn>
+            <author>J.D. Salinger</author>
+            <preface>
+                <content>A classic novel that follows the experiences of teenager Holden Caulfield in New York City.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1: The Journey Begins</title>
+                    <chapters>
+                        <chapter>
+                            <title>Holden's Expulsion</title>
+                            <summary>Holden Caulfield gets expelled from Pencey Prep, setting off a series of events in New York City.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>Holden decides to leave Pencey early and spends time in New York City before returning home.</paragraph>
+                                    <paragraph>The story explores themes of alienation, identity, and adolescence.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>1984</title>
+            <isbn>978-0-452-28423-4</isbn>
+            <author>George Orwell</author>
+            <preface>
+                <content>A dystopian novel set in a totalitarian regime where individualism and independent thinking are suppressed.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1: The World of Big Brother</title>
+                    <chapters>
+                        <chapter>
+                            <title>Introduction to Oceania</title>
+                            <summary>An introduction to the oppressive society of Oceania ruled by Big Brother.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>The story follows Winston Smith as he rebels against the Party and falls in love with Julia.</paragraph>
+                                    <paragraph>Themes of surveillance, propaganda, and the nature of truth are explored throughout the novel.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>Harry Potter and the Philosopher's Stone</title>
+            <isbn>978-0-7475-3269-6</isbn>
+            <author>J.K. Rowling</author>
+            <preface>
+                <content>The first book in the Harry Potter series, following the adventures of a young wizard, Harry Potter, at Hogwarts School of Witchcraft and Wizardry.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1: The Boy Who Lived</title>
+                    <chapters>
+                        <chapter>
+                            <title>Privet Drive and the Hogwarts Letter</title>
+                            <summary>Harry Potter discovers he is a wizard on his eleventh birthday and receives his acceptance letter to Hogwarts.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>Harry learns about his past and his parents' legacy as he prepares to embark on a magical journey at Hogwarts.</paragraph>
+                                    <paragraph>The story introduces iconic characters and sets the stage for Harry's adventures.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>The Lord of the Rings: The Fellowship of the Ring</title>
+            <isbn>978-0-618-34625-1</isbn>
+            <author>J.R.R. Tolkien</author>
+            <preface>
+                <content>The first volume in J.R.R. Tolkien's epic fantasy trilogy, following the quest to destroy the One Ring and defeat the Dark Lord Sauron.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1: The Ring Sets Out</title>
+                    <chapters>
+                        <chapter>
+                            <title>A Long-expected Party</title>
+                            <summary>Bilbo Baggins celebrates his eleventy-first birthday and passes the Ring to Frodo, beginning the quest.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>Frodo sets out from the Shire with his companions, embarking on a perilous journey to Rivendell.</paragraph>
+                                    <paragraph>The story introduces the Fellowship of the Ring and sets the stage for the epic quest ahead.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>Pride and Prejudice</title>
+            <isbn>978-0-14-143951-8</isbn>
+            <author>Jane Austen</author>
+            <preface>
+                <content>A romantic novel that follows the lives of the Bennet sisters and their pursuit of love and marriage in 19th-century England.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1: The Arrival of Mr. Bingley</title>
+                    <chapters>
+                        <chapter>
+                            <title>Mrs. Bennet's Hopes</title>
+                            <summary>Mrs. Bennet hopes to marry off her daughters when Mr. Bingley, a wealthy bachelor, arrives in the neighborhood.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>Elizabeth Bennet is introduced to Mr. Darcy, Mr. Bingley's friend, who makes a less favorable impression.</paragraph>
+                                    <paragraph>The story explores themes of love, class, and societal expectations.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>The Hobbit</title>
+            <isbn>978-0-618-75566-0</isbn>
+            <author>J.R.R. Tolkien</author>
+            <preface>
+                <content>A fantasy novel that follows the journey of Bilbo Baggins, a hobbit who is swept into an epic quest to reclaim a treasure guarded by a dragon.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1: An Unexpected Party</title>
+                    <chapters>
+                        <chapter>
+                            <title>Bilbo's Invitation</title>
+                            <summary>Bilbo Baggins is visited by the wizard Gandalf and a group of dwarves, inviting him on an adventure.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>Bilbo reluctantly agrees to join the dwarves on their quest to reclaim their homeland from the dragon Smaug.</paragraph>
+                                    <paragraph>The story follows Bilbo's journey as he encounters trolls, goblins, and other fantastical creatures.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>Crime and Punishment</title>
+            <isbn>978-0-14-310763-7</isbn>
+            <author>Fyodor Dostoevsky</author>
+            <preface>
+                <content>A psychological novel that follows the moral dilemmas of Rodion Raskolnikov, a young ex-law student in Saint Petersburg.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1: The Crime</title>
+                    <chapters>
+                        <chapter>
+                            <title>Raskolnikov's Plan</title>
+                            <summary>Raskolnikov devises a plan to kill a pawnbroker, believing himself to be a superior being above moral law.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>Raskolnikov's internal conflict and rationalizations lead him to commit the crime, but he is haunted by guilt afterward.</paragraph>
+                                    <paragraph>The story explores themes of morality, guilt, and redemption.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+        <book>
+            <title>War and Peace</title>
+            <isbn>978-0-14-044793-4</isbn>
+            <author>Leo Tolstoy</author>
+            <preface>
+                <content>An epic novel set during the Napoleonic Wars, following the lives of several aristocratic families in Russia.</content>
+            </preface>
+            <parts>
+                <part>
+                    <title>Part 1: Peace</title>
+                    <chapters>
+                        <chapter>
+                            <title>The Drawing-Rooms of Petersburg</title>
+                            <summary>The aristocratic society of Petersburg is introduced, setting the stage for the unfolding drama.</summary>
+                            <sections>
+                                <section>
+                                    <paragraph>The story follows the lives of the Rostov and Bolkonsky families as they navigate love, war, and societal change.</paragraph>
+                                    <paragraph>Themes of history, politics, and human nature are explored throughout the novel.</paragraph>
+                                </section>
+                            </sections>
+                        </chapter>
+                    </chapters>
+                </part>
+            </parts>
+        </book>
+    </books>
+</library>
